@@ -1,0 +1,6 @@
+Modelos/Base[[:space:]]Balanceada/Inception_weights_B.hdf5 filter=lfs diff=lfs merge=lfs -text
+Modelos/Base[[:space:]]Balanceada/Inception_weights_B_FT.hdf5 filter=lfs diff=lfs merge=lfs -text
+Modelos/Base[[:space:]]Balanceada/VGG_weights_B_FT.hdf5 filter=lfs diff=lfs merge=lfs -text
+Modelos/Base[[:space:]]Desbalanceada/VGG_weights_FT.hdf5 filter=lfs diff=lfs merge=lfs -text
+Modelos/Base[[:space:]]Desbalanceada/Inception_weights_FT.hdf5 filter=lfs diff=lfs merge=lfs -text
+Modelos/Base[[:space:]]Desbalanceada/Inception_weights.hdf5 filter=lfs diff=lfs merge=lfs -text
